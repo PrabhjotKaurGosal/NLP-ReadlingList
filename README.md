@@ -16,18 +16,21 @@ My plan is to add a summary for the research papers as I finish reading them.
    - https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval
 2. **LaMDA**: Language Models for Dialog Applications (Feb, 2022): https://arxiv.org/pdf/2201.08239.pdf
    - https://ai.googleblog.com/2022/01/lamda-towards-safe-grounded-and-high.html
-3. **OPT**: Open Pre-trained Transformer Language Models (May, 2022): https://arxiv.org/pdf/2205.01068.pdf
+3. **Chinchilla**: Training Compute-Optimal Large Language Models (March, 2022): https://arxiv.org/pdf/2203.15556.pdf
+   - https://gpt3demo.com/apps/chinchilla-deepmind
+   - https://www.deepmind.com/publications/an-empirical-analysis-of-compute-optimal-large-language-model-training
+5. **OPT**: Open Pre-trained Transformer Language Models (May, 2022): https://arxiv.org/pdf/2205.01068.pdf
    - 175B- parameters
    - https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/
    - Small pretrained model available: https://github.com/facebookresearch/metaseq 
-4. **PaLM**: Scaling Language Modeling with Pathways (Oct, 2022): https://arxiv.org/pdf/2204.02311.pdf
+6. **PaLM**: Scaling Language Modeling with Pathways (Oct, 2022): https://arxiv.org/pdf/2204.02311.pdf
    - 540B parameters
    - https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
-5. **BLOOM**: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
+7. **BLOOM**: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
    - Can generate text in 46 natural languages and 13 programming languages.
    - https://bigscience.huggingface.co/blog/bloom
    - Model available: 
-6. **GLaM**: Efficient Scaling of Language Models with Mixture-of-Experts (Aug, 2022): https://arxiv.org/pdf/2112.06905.pdf
+8. **GLaM**: Efficient Scaling of Language Models with Mixture-of-Experts (Aug, 2022): https://arxiv.org/pdf/2112.06905.pdf
    - https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html
 
 
