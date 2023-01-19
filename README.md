@@ -9,3 +9,6 @@ This repository contains reserach papers and other reading material that I found
 1. BLOOM: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
    - Can generate text in 46 natural languages and 13 programming languages.
    - https://bigscience.huggingface.co/blog/bloom
+
+## Misc
+1. Partnering people with large language models to find and fix bugs in NLP systems (May, 2022): https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-language-models-to-find-and-fix-bugs-in-nlp-systems/
