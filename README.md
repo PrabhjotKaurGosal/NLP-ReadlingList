@@ -8,14 +8,14 @@ Natural Language Processing (NLP) is a fast growing area of reserach. In the pas
 2. NVIDIA SPEEDS UP LARGE LANGUAGE MODELING (July 29, 2022): https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/
 
 ## Large Language Models 
-1. OPT: Open Pre-trained Transformer Language Models (May, 2022): https://arxiv.org/pdf/2205.01068.pdf
+1. **OPT**: Open Pre-trained Transformer Language Models (May, 2022): https://arxiv.org/pdf/2205.01068.pdf
    - 175B- parameters
    - https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/
    - Small pretrained model available: https://github.com/facebookresearch/metaseq 
-2. PaLM: Scaling Language Modeling with Pathways (Oct, 2022): https://arxiv.org/pdf/2204.02311.pdf
+2. **PaLM**: Scaling Language Modeling with Pathways (Oct, 2022): https://arxiv.org/pdf/2204.02311.pdf
    - 540B parameters
    - https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
-3. BLOOM: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
+3. **BLOOM**: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
    - Can generate text in 46 natural languages and 13 programming languages.
    - https://bigscience.huggingface.co/blog/bloom
    - Model available: 
