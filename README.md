@@ -23,15 +23,16 @@ My plan is to add a summary for the research papers as I finish reading them.
    - 175B- parameters
    - https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/
    - Small pretrained model available: https://github.com/facebookresearch/metaseq 
-6. **PaLM**: Scaling Language Modeling with Pathways (Oct, 2022): https://arxiv.org/pdf/2204.02311.pdf
+6. **GLaM**: Efficient Scaling of Language Models with Mixture-of-Experts (Aug, 2022): https://arxiv.org/pdf/2112.06905.pdf
+   - https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html
+7. **PaLM**: Scaling Language Modeling with Pathways (Oct, 2022): https://arxiv.org/pdf/2204.02311.pdf
    - 540B parameters
    - https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
-7. **BLOOM**: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
+8. **BLOOM**: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
    - Can generate text in 46 natural languages and 13 programming languages.
    - https://bigscience.huggingface.co/blog/bloom
    - Model available: 
-8. **GLaM**: Efficient Scaling of Language Models with Mixture-of-Experts (Aug, 2022): https://arxiv.org/pdf/2112.06905.pdf
-   - https://ai.googleblog.com/2021/12/more-efficient-in-context-learning-with.html
+
 
 
 
