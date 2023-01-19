@@ -6,6 +6,6 @@ This repository contains reserach papers and other reading material that I found
 1. Beyond Words: Large Language Models Expand AI’s Horizon (Oct 10, 2022): https://blogs.nvidia.com/blog/2022/10/10/llms-ai-horizon/ 
 
 ## Large Language Models 
-1. BLOOM: https://bigscience.huggingface.co/blog/bloom
-   - (paper) BLOOM: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
+1. BLOOM: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
    - Can generate text in 46 natural languages and 13 programming languages.
+   - https://bigscience.huggingface.co/blog/bloom
