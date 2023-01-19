@@ -8,6 +8,7 @@ My plan is to add a summary for the research papers as I finish reading them.
 ## History on Large Language Models (LLM)
 1. Beyond Words: Large Language Models Expand AI’s Horizon (Oct 10, 2022): https://blogs.nvidia.com/blog/2022/10/10/llms-ai-horizon/ 
 2. NVIDIA SPEEDS UP LARGE LANGUAGE MODELING (July 29, 2022): https://www.nextplatform.com/2022/07/29/nvidia-speeds-up-large-language-modeling/
+3. Youtube video: https://www.youtube.com/watch?v=lnA9DMvHtfI
 
 ## Large Language Models 
 1. **Gopher**: Scaling Language Models: Methods, Analysis & Insights from Training Gopher (Dec, 2021): https://storage.googleapis.com/deepmind-media/research/language-research/Training%20Gopher.pdf
