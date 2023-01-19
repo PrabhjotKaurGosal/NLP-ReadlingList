@@ -7,5 +7,5 @@ This repository contains reserach papers and other reading material that I found
 
 ## Large Language Models 
 1. BLOOM: https://bigscience.huggingface.co/blog/bloom
-   - (paper) BLOOM: A 176B-Parameter Open-Access Multilingual Language ModelPaper: https://arxiv.org/pdf/2211.05100.pdf
+   - (paper) BLOOM: A 176B-Parameter Open-Access Multilingual Language ModelPaper (Dec, 2022): https://arxiv.org/pdf/2211.05100.pdf
    - Can generate text in 46 natural languages and 13 programming languages.
