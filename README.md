@@ -41,3 +41,4 @@ My plan is to add a summary for the research papers as I finish reading them.
 1. Partnering people with large language models to find and fix bugs in NLP systems (May, 2022): https://www.microsoft.com/en-us/research/blog/partnering-people-with-large-language-models-to-find-and-fix-bugs-in-nlp-systems/
 2. Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, the World’s Largest and Most Powerful Generative Language Model: https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
 3. What is Vector Quantization in Speech Processing? https://wiki.aalto.fi/pages/viewpage.action?pageId=149883153
+4. Speech Processing Introduction: https://speechprocessingbook.aalto.fi/
