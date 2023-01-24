@@ -34,7 +34,11 @@ My plan is to add a summary for the research papers as I finish reading them.
    - https://bigscience.huggingface.co/blog/bloom
    - Model available: 
 
+## Speech Synthesis
+1. VALL-E: https://arxiv.org/pdf/2301.02111.pdf
 
+## Speech to Speech Translation
+1. Speech-to-Speech Translation For A Real-world Unwritten Language: https://arxiv.org/pdf/2211.06474.pdf
 
 
 ## Misc
